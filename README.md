@@ -1,5 +1,5 @@
 # FIGMA
-This repository contains a list of all the TASK completed during my UI/UX learning. The projects were completed using a figma tool.
+This repository contains a list of all the TASK completed during my UI/UX self learning. The projects were completed using a figma tool.
 
 ## Project List
 
@@ -14,10 +14,7 @@ This repository contains a list of all the TASK completed during my UI/UX learni
 
 If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-You can copy and paste this code into a Markdown file and modify the text as needed.
 
 
 
